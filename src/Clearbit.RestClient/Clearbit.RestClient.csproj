@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="PortableRest" Version="[4.0.0, 5.0.0)" />
+    <PackageReference Include="PortableRest" Version="4.0.1-CI-20191119-191939" />
   </ItemGroup>
 
   <ItemGroup>
