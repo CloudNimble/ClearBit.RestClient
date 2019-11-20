@@ -22,7 +22,7 @@ namespace Clearbit.Models
         /// <summary>
         /// Headquarters suite number (pertains only to <see cref="Company"/>).
         /// </summary>
-        public object SubPremise { get; set; }
+        public string SubPremise { get; set; }
 
         /// <summary>
         /// 
