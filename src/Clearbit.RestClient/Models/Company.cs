@@ -59,22 +59,22 @@ namespace Clearbit.Models
         public string Description { get; set; }
 
         /// <summary>
-        /// 
+        /// Year company was founded.
         /// </summary>
         public int? FoundedYear { get; set; }
 
         /// <summary>
-        /// 
+        /// The full Address of the company
         /// </summary>
         public string Location { get; set; }
 
         /// <summary>
-        /// 
+        /// The timezone string for the company’s location
         /// </summary>
         public string TimeZone { get; set; }
 
         /// <summary>
-        /// 
+        /// The offset from UTC in hours in the company’s location
         /// </summary>
         public int UtcOffset { get; set; }
 

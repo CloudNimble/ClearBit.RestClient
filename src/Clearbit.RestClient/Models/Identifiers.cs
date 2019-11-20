@@ -10,7 +10,7 @@ namespace Clearbit.Models
     {
 
         /// <summary>
-        /// 
+        /// US Employer Identification Number
         /// </summary>
         [JsonProperty(PropertyName = "usEIN")]
         public string USEmployerIdentificationNumber { get; set; }

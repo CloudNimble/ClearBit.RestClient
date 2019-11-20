@@ -20,7 +20,7 @@ namespace Clearbit.Models
         public string StreetName { get; set; }
 
         /// <summary>
-        /// 
+        /// Headquarters suite number (pertains only to <see cref="Company"/>).
         /// </summary>
         public object SubPremise { get; set; }
 
@@ -30,7 +30,7 @@ namespace Clearbit.Models
         public string City { get; set; }
 
         /// <summary>
-        /// 
+        /// Headquarters postal/zip code (pertains only to <see cref="Company"/>).
         /// </summary>
         public string PostalCode { get; set; }
 
